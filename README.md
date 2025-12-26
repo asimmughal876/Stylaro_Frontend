@@ -37,7 +37,7 @@ Build Stylaro_Frontend from the source and install dependencies:
 
 Clone the repository:
 
-❯ git clone https://github.com/ASIM9684/Stylaro_Frontend
+❯ git clone https://github.com/asimmughal876/Stylaro_Frontend
 Navigate to the project directory:
 
 ❯ cd Stylaro_Frontend
